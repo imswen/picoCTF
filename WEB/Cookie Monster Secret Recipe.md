@@ -1,6 +1,6 @@
-# [Cookie Monster Secret Recipe - picoCTF 2025]
-###### Solved by @[imswen]
-> This is a CTF about [Web Exploration]
+# Cookie Monster Secret Recipe - picoCTF 2025
+###### Solved by @imswen
+> This is a CTF about Web Exploitation
 ## About the Challenge
 Ao acessar o desafio, nos deparamos com a seguinte mensagem de introdução:
 >Cookie Monster has hidden his top-secret cookie recipe somewhere on his website. As an aspiring cookie detective, your mission is to uncover this delectable secret. Can you outsmart Cookie Monster and find the hidden recipe?
@@ -19,4 +19,4 @@ Utilizando as ferramentas de desenvolvedor do navegador, acessei a aba de "Aplic
 ![Imagem1.png](https://i.imgur.com/T2hScWP.png)
 
 Após decodificá-la, obtive a flag do desafio:
->`[picoCTF{c00k1e_m0nster_l0ves_c00kies_96F58DAB}]`
+>`picoCTF{c00k1e_m0nster_l0ves_c00kies_96F58DAB}`
