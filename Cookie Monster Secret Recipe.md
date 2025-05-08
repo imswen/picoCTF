@@ -20,5 +20,3 @@ Utilizando as ferramentas de desenvolvedor do navegador, acessei a aba de "Aplic
 
 Após decodificá-la, obtive a flag do desafio:
 >`[picoCTF{c00k1e_m0nster_l0ves_c00kies_96F58DAB}]`
-
-Essa análise mostra como o desafio estava centrado no entendimento e inspeção de cookies HTTP, comum em contextos de segurança e CTFs (Capture the Flag).
