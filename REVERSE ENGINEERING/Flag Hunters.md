@@ -1,6 +1,6 @@
-# [Flag Hunters]
-###### Solved by @[imswen]
-> This is a CTF about [Reverse Engineering]
+# Flag Hunters
+###### Solved by @imswen
+> This is a CTF about Reverse Engineering
 ## About the Challenge
 Ao acessar o desafio, nos deparamos com a seguinte mensagem introdutória:
 >Lyrics jump from verses to the refrain kind of like a subroutine call. There's a hidden refrain this program doesn't print by default. Can you get it to print it? There might be something in it for you.
@@ -39,5 +39,5 @@ Resultado: ao injetar ;RETURN 0 como parte da entrada da plateia, o código "pul
 
 ![Imagem4.png](https://i.imgur.com/Gp2yQr2.png)
 
->`[picoCTF{70637h3r_f0r3v3r_ac197d12}]`
+>`picoCTF{70637h3r_f0r3v3r_ac197d12}`
  
