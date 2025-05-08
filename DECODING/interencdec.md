@@ -1,6 +1,6 @@
-# [interencdec]
-###### Solved by @[imswen]
-> This is a CTF about [Decoding]
+# interencdec
+###### Solved by @imswen
+> This is a CTF about Decoding
 ## About the Challenge
 Ao acessar o desafio, somos apresentados à seguinte mensagem de introdução:
 >Can you get the real meaning from this file.
@@ -20,5 +20,5 @@ Ainda parecia ser uma string codificada em Base64, então realizei uma segunda d
 >wpjvJAM{jhlzhy_k3jy9wa3k_h47j6k69}
 
 Decidi jogar o texto diretamente no [dCode](https://www.dcode.fr/en), uma ferramenta bastante útil para identificar esse tipo de criptografia. O próprio dCode identificou que se tratava de uma **Cifra de César**. A decodificação resultou na flag:
->`[picoCTF{caesar_d3cr9pt3d_a47c6d69}]`
+>`picoCTF{caesar_d3cr9pt3d_a47c6d69}`
  
