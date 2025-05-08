@@ -1,6 +1,6 @@
-# [RED]
-###### Solved by @[imswen]
-> This is a CTF about [Forensics]
+# RED
+###### Solved by @imswen
+> This is a CTF about Forensics
 ## About the Challenge
 Ao acessar o desafio, somos recebidos com a seguinte introdução enigmática:
 >RED, RED, RED, RED
@@ -39,5 +39,5 @@ Sabendo disso, utilizei a ferramenta [zsteg](https://github.com/zed-0xff/zsteg),
 ![Imagem6.png](https://i.imgur.com/INIrazy.png)
 
 Consegui extrair um texto codificado em **Base64** do **canal vermelho**. Bastou copiar o texto e decodificá-lo com um conversor [Base64](https://www.base64decode.org) para revelar a flag:
->`[picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}]`
+>`picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}`
  
