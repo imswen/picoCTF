@@ -6,6 +6,8 @@
 Ao acessar o desafio, somos apresentados à seguinte explicação:
 > "I've hidden some data using XOR with a single byte, but that byte is a secret. Don't forget to decode from hex first."
 
+- [Página do desafio](https://cryptohack.org/courses/intro/xorkey0/)
+  
 Isso indica que a mensagem foi codificada com **XOR** usando um único byte como chave, e que o conteúdo está em **hexadecimal**.
 
 Nos é fornecida a seguinte string hexadecimal:
