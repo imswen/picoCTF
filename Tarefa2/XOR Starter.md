@@ -29,6 +29,3 @@ Resultado da transformação: **"aloha"**
 ## Flag
 A conversão resultou na **flag**:
 >`crypto{aloha}`
-
-## Objetivo
-Esse desafio foi uma forma simples de mostrar como uma operação básica, como o **XOR**, pode ser usada para esconder informações. Basta um número e uma operação para transformar completamente uma mensagem.
