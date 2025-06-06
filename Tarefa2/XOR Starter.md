@@ -9,6 +9,8 @@ Ao acessar o desafio, somos apresentados à seguinte instrução:
 
 Ou seja, temos que aplicar uma operação XOR em cada caractere da string fornecida, convertendo-os de volta em caracteres legíveis para descobrir a flag.
 
+![image](https://github.com/user-attachments/assets/6d561975-4cc3-434a-b43c-f56fd43df462)
+
 ## Solution
 Comecei convertendo cada caractere da string **label** em seus respectivos valores [ASCII](https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html):
 - **'l'** → 108
