@@ -8,6 +8,8 @@ Ao acessar o desafio, somos recebidos com a seguinte **introdução**:
 > 
 > There are four main properties we should consider when we solve challenges using the XOR operator
 
+- [Página do desafio](https://cryptohack.org/courses/intro/xor1/)
+  
 O enunciado nos relembra algumas propriedades importantes da operação **XOR**:
 - **Comutativa:** A ⊕ B = B ⊕ A
 - **Associativa:** A ⊕ (B ⊕ C) = (A ⊕ B) ⊕ C
