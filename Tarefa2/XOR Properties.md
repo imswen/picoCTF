@@ -16,6 +16,8 @@ O enunciado nos relembra algumas propriedades importantes da operação **XOR**:
 
 Essas propriedades nos permitem **reorganizar** e **simplificar** expressões **XOR** para “cancelar” elementos, o que é especialmente útil para descriptografar mensagens.
 
+![image](https://github.com/user-attachments/assets/07bd8906-90a1-4b95-884d-aaafaffd6058)
+
 ## Solution
 Nos foram fornecidos os seguintes valores:
 > KEY1 =         a6c8b6733c9b22de7bc0253266a3867df55acde8635e19c73313  
@@ -53,6 +55,7 @@ Primeiro, fiz a operação 'KEY1 ^ KEY2', resultando em:
 
 Após, realizei a operação '(KEY1 ^ KEY2) ^ KEY3', obtendo:
 > 679ce12554e557ada0e38f2e52f126e54240b2576c83c4196cd2
+
 
 Por fim, realizei a operação XOR de '(FLAG ^ KEY1 ^ KEY3 ^ KEY2)' com o resultado obtido na anterior. Resultando na XORed Output:
 > 63727970746f7b7830725f69355f61737330633161743176337d
